@@ -1,0 +1,19 @@
+.book_block{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: block;
+    height:150px;
+    width:100%;
+}
+.book_cover {
+    width:100px;
+    height:150px;
+    position: relative; 
+    float:left;
+}
+.book_info{
+    position: relative;
+    overflow:hidden;
+    display: inline-block;
+    margin-left: 10px;
+}
